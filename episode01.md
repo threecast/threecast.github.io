@@ -1,0 +1,22 @@
+【三人行】纯粹是 [Sneezry](https://sneezry.com)、[Huntersnk](https://huntersnk.com) 和 [Rebornix](https://rebornix.com) 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。
+
+既然大家【弃笔】投身于播客，第一期我们就不妨来讲讲各自写博客的故事。从 QQ 空间到新浪、163博客，从搭建 Wordpress 到 GitHub Pages，从简书到自己构建 blog engine，每一次选择都伴随着成长。听花边新闻的同时，顺带听听 [Huntersnk](https://huntersnk.com) 给朋友们选择博客的一些建议。
+
+相关链接：
+
+* [How to train your dragon](https://www.howtotrainyourdragon.com/)
+( [Wordpress](https://wordpress.org/)
+* [你为什么需要一个 Kindle ](https://rebornix.com/2012/08/05/%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AAKindle/)
+* [七牛](http://qiniu.com/)
+* [GAE](https://appengine.google.com)
+* [microlog](http://microlog.sourceforge.net/site/)
+* [medium](https://medium.com)
+* [简书](http://jianshu.com)
+* [Tumblr](https://www.tumblr.com/)
+* [点点](http://www.diandian.com/)
+* [Ghost](https://ghost.org)
+* [Static Site Generators](https://staticsitegenerators.net/)
+* [Disqus](https://disqus.com)
+* [我画的柯南](https://sneezry.com/#!/2011/01/17/我画的柯南)
+* [Single Page Blog: spblog](https://github.com/spblog/spblog.github.io)
+* [Sneezry 老师的书:《Chrome扩展及应用开发》](https://book.douban.com/subject/25980975/)
