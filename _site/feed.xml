@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 19 Oct 2015 06:29:01 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2015 06:29:01 +0000</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Autobots, Roll out!</title>
+        <description>&lt;p&gt;【三人行】纯粹是 &lt;a href=&quot;https://sneezry.com&quot;&gt;Sneezry&lt;/a&gt;、&lt;a href=&quot;https://huntersnk.com&quot;&gt;Huntersnk&lt;/a&gt; 和 &lt;a href=&quot;https://rebornix.com&quot;&gt;Rebornix&lt;/a&gt; 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。&lt;/p&gt;
+
+&lt;p&gt;既然大家【弃笔】投身于播客，第一期我们就不妨来讲讲各自写博客的故事。从 QQ 空间到新浪、163博客，从搭建 Wordpress 到 GitHub Pages，从简书到自己构建 blog engine，每一次选择都伴随着成长。听花边新闻的同时，顺带听听 &lt;a href=&quot;https://huntersnk.com&quot;&gt;Huntersnk&lt;/a&gt; 给朋友们选择博客的一些建议。&lt;/p&gt;
+
+&lt;p&gt;相关链接：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.howtotrainyourdragon.com/&quot;&gt;How to train your dragon&lt;/a&gt;
+( &lt;a href=&quot;https://wordpress.org/&quot;&gt;Wordpress&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rebornix.com/2012/08/05/%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AAKindle/&quot;&gt;你为什么需要一个 Kindle &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://qiniu.com/&quot;&gt;七牛&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://appengine.google.com&quot;&gt;GAE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://microlog.sourceforge.net/site/&quot;&gt;microlog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com&quot;&gt;medium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jianshu.com&quot;&gt;简书&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tumblr.com/&quot;&gt;Tumblr&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.diandian.com/&quot;&gt;点点&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ghost.org&quot;&gt;Ghost&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://staticsitegenerators.net/&quot;&gt;Static Site Generators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://disqus.com&quot;&gt;Disqus&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sneezry.com/#!/2011/01/17/我画的柯南&quot;&gt;我画的柯南&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/spblog/spblog.github.io&quot;&gt;Single Page Blog: spblog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://book.douban.com/subject/25980975/&quot;&gt;Sneezry 老师的书:《Chrome扩展及应用开发》&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 25 Oct 2015 20:20:00 +0000</pubDate>
+        <link>http://yourdomain.com/threecast/2015/10/25/episode1.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/threecast/2015/10/25/episode1.html</guid>
+        
+        
+        <category>threecast</category>
+        
+      </item>
+    
+  </channel>
+</rss>
