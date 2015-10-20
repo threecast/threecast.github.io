@@ -4,9 +4,9 @@ title:  Autobots, Roll out!
 date:   2015-10-25 20:20:00
 categories: threecast
 ---
-【三人行】纯粹是 [Sneezry](https://sneezry.com)、[Huntersnk](https://huntersnk.com) 和 [Rebornix](https://rebornix.com) 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。
+「三人行」纯粹是 [Sneezry](https://sneezry.com)、[Huntersnk](https://huntersnk.com) 和 [Rebornix](https://rebornix.com) 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。
 
-既然大家【弃笔】投身于播客，第一期我们就不妨来讲讲各自写博客的故事。从 QQ 空间到新浪、163博客，从搭建 Wordpress 到 GitHub Pages，从简书到自己构建 blog engine，每一次选择都伴随着成长。听花边新闻的同时，顺带听听 [Huntersnk](https://huntersnk.com) 给朋友们选择博客的一些建议。
+既然大家「弃笔」投身于播客，第一期我们就不妨来讲讲各自写博客的故事。从 QQ 空间到新浪、163博客，从搭建 Wordpress 到 GitHub Pages，从简书到自己构建 blog engine，每一次选择都伴随着成长。听花边新闻的同时，顺带听听 [Huntersnk](https://huntersnk.com) 给朋友们选择博客的一些建议。
 
 相关链接：
 
