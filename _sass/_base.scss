@@ -154,7 +154,7 @@ pre {
  * Wrapper
  */
 .wrapper {
-    width: 80%;
+    width: 90%;
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -162,7 +162,6 @@ pre {
     @extend %clearfix;
 
     @include media-query($on-laptop) {
-        width: 90%;
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }

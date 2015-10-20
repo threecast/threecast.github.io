@@ -20,10 +20,18 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <div class="post-date">
+          <div class="day">{{ post.date | date: "%-d" }}</div>
+          <div class="month">{{ post.date | date: "%b/%Y" }}</div>
+        </div>
+        <div class="post-info">
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+        </div>
+        <div class="post-summary">
+          {{ post.excerpt }}
+        </div>
       </li>
     {% endfor %}
   </ul>

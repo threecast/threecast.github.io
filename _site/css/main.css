@@ -16,7 +16,7 @@ body {
   line-height: 1.5;
   font-weight: 300;
   color: #111;
-  background-color: #f8f8f8;
+  background-color: #f8f8f6;
   -webkit-text-size-adjust: 100%; }
 
 /**
@@ -110,14 +110,13 @@ pre {
  * Wrapper
  */
 .wrapper {
-  width: 80%;
+  width: 90%;
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 800px) {
     .wrapper {
-      width: 90%;
       padding-right: 15px;
       padding-left: 15px; } }
 
@@ -144,22 +143,37 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #5b484e;
-  border-bottom: 1px solid #f8f6f7;
+  border-top: 5px solid #3e3136;
   height: 500px;
   background-image: url(/images/header_bg.jpg);
   background-position: center;
   background-size: cover;
-  position: relative; }
+  position: relative;
+  box-shadow: 0px 1.5px 3px 0px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px; }
+  @media screen and (max-width: 600px) {
+    .site-header {
+      height: 300px; } }
 
 .site-title {
-  font-size: 26px;
+  font-size: 36px;
   line-height: 56px;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: left; }
+  float: left;
+  background: #3e3136;
+  padding: 5px 30px;
+  box-shadow: 0px 1.5px 3px 0px rgba(0, 0, 0, 0.1); }
   .site-title, .site-title:visited {
-    color: #5b484e; }
+    color: #fff; }
+  .site-title:hover {
+    text-decoration: none; }
+  .site-title img {
+    width: 40px;
+    vertical-align: top;
+    position: relative;
+    top: 8px;
+    margin-right: 20px; }
 
 .site-nav {
   float: right;
@@ -176,7 +190,7 @@ pre {
       position: absolute;
       top: 9px;
       right: 30px;
-      background-color: #f8f8f8;
+      background-color: #f8f8f6;
       border: 1px solid #f8f6f7;
       border-radius: 5px;
       text-align: right; }
@@ -192,7 +206,7 @@ pre {
           width: 18px;
           height: 15px; }
           .site-nav .menu-icon > svg path {
-            fill: #5b484e; }
+            fill: #3e3136; }
       .site-nav .trigger {
         clear: both;
         display: none; }
@@ -208,7 +222,8 @@ pre {
  */
 .site-footer {
   border-top: 1px solid #f8f6f7;
-  padding: 30px 0; }
+  padding: 30px 0;
+  background: #f0e9e4; }
 
 .footer-heading {
   font-size: 18px;
@@ -256,7 +271,7 @@ pre {
 .lastest-entry {
   background: #fff;
   box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
-  padding: 30px 50px;
+  padding: 2%;
   margin-bottom: 50px; }
 
 .page-content {
@@ -267,15 +282,62 @@ pre {
 
 .post-list {
   margin-left: 0;
-  list-style: none;
-  background: #fff;
-  box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
-  padding: 30px 50px;
-  margin-bottom: 50px; }
+  list-style: none; }
+  .post-list li {
+    background: #fff;
+    box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
+    padding: 2%;
+    margin-bottom: 50px; }
 
 .post-meta {
   font-size: 14px;
   color: #9e848d; }
+
+.post-date {
+  max-width: 80px;
+  width: 16%;
+  display: inline-block; }
+  .post-date .day {
+    width: 60px;
+    height: 60px;
+    font: normal normal bold 2.4rem/4.9rem "Verdana",sans-serif;
+    background: #9e848d;
+    color: #fff;
+    text-align: center;
+    margin: 10px auto; }
+  .post-date .month {
+    text-align: center;
+    font-weight: bold;
+    color: #3e3136; }
+  @media screen and (max-width: 600px) {
+    .post-date {
+      display: block;
+      width: auto;
+      max-width: 100%; } }
+
+.post-info {
+  padding: 0 20px;
+  width: 40%;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+  box-sizing: border-box; }
+  @media screen and (max-width: 600px) {
+    .post-info {
+      padding: 0;
+      display: block;
+      width: auto; } }
+
+.post-summary {
+  width: 40%;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+  opacity: 0.5; }
+  @media screen and (max-width: 600px) {
+    .post-summary {
+      display: block;
+      width: auto; } }
 
 .post-link {
   display: block;
@@ -288,7 +350,7 @@ pre {
     width: calc(100% - (30px / 2)); }
 
   .lastest-entry,
-  .post-list {
+  .post-list li {
     padding: 15px 25px; } }
 /**
  * Posts
