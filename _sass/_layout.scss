@@ -4,7 +4,10 @@
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    height: 500px;
+    background-image: url(/images/header_bg.jpg);
+    background-position: center;
+    background-size: cover;
 
     // Positioning context for the mobile navigation icon
     position: relative;
