@@ -3,16 +3,19 @@ layout: default
 ---
 
 <div class="home">
-  <h1 class="entry-title">
-  {% assign post = site.posts.first %}
-  {% assign content = post.content %}
-  {% if post.title %}
-    <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
-  {% endif %}
-  </h1>
-  <div class="entry-content">{{ content }}</div>
-
+  <div class="lastest-entry">
+    <h1 class="entry-title">
+    {% assign post = site.posts.first %}
+    {% assign content = post.content %}
+    {% if post.title %}
+      <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+    {% endif %}
+    </h1>
+    <div class="entry-content">{{ content }}</div>
+  </div>
+  <!--
   <h1 class="page-heading">Posts</h1>
+  -->
 
   <ul class="post-list">
     {% for post in site.posts %}

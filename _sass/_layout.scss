@@ -164,6 +164,13 @@
 /**
  * Page content
  */
+.lastest-entry {
+    background: #fff;
+    box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
+    padding: 30px 50px;
+    margin-bottom: 50px;
+}
+
 .page-content {
     padding: $spacing-unit 0;
 }
@@ -178,6 +185,7 @@
     background: #fff;
     box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
     padding: 30px 50px;
+    margin-bottom: 50px;
 }
 
 .post-meta {

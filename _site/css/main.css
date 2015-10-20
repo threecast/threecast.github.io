@@ -259,6 +259,12 @@ pre {
 /**
  * Page content
  */
+.lastest-entry {
+  background: #fff;
+  box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
+  padding: 30px 50px;
+  margin-bottom: 50px; }
+
 .page-content {
   padding: 30px 0; }
 
@@ -270,7 +276,8 @@ pre {
   list-style: none;
   background: #fff;
   box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
-  padding: 30px 50px; }
+  padding: 30px 50px;
+  margin-bottom: 50px; }
 
 .post-meta {
   font-size: 14px;
