@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>三人行</title>
+    <description>「三人行」纯粹是 Sneezry、Huntersnk 和 Rebornix 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Oct 2015 16:53:37 +0800</pubDate>
-    <lastBuildDate>Tue, 20 Oct 2015 16:53:37 +0800</lastBuildDate>
+    <link>http://three.sh/</link>
+    <atom:link href="http://three.sh/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 20 Oct 2015 18:55:13 +0800</pubDate>
+    <lastBuildDate>Tue, 20 Oct 2015 18:55:13 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Autobots, Roll out!</title>
-        <description>&lt;p&gt;【三人行】纯粹是 &lt;a href=&quot;https://sneezry.com&quot;&gt;Sneezry&lt;/a&gt;、&lt;a href=&quot;https://huntersnk.com&quot;&gt;Huntersnk&lt;/a&gt; 和 &lt;a href=&quot;https://rebornix.com&quot;&gt;Rebornix&lt;/a&gt; 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。&lt;/p&gt;
+        <description>&lt;p&gt;「三人行」纯粹是 &lt;a href=&quot;https://sneezry.com&quot;&gt;Sneezry&lt;/a&gt;、&lt;a href=&quot;https://huntersnk.com&quot;&gt;Huntersnk&lt;/a&gt; 和 &lt;a href=&quot;https://rebornix.com&quot;&gt;Rebornix&lt;/a&gt; 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。&lt;/p&gt;
 
-&lt;p&gt;既然大家【弃笔】投身于播客，第一期我们就不妨来讲讲各自写博客的故事。从 QQ 空间到新浪、163博客，从搭建 Wordpress 到 GitHub Pages，从简书到自己构建 blog engine，每一次选择都伴随着成长。听花边新闻的同时，顺带听听 &lt;a href=&quot;https://huntersnk.com&quot;&gt;Huntersnk&lt;/a&gt; 给朋友们选择博客的一些建议。&lt;/p&gt;
+&lt;p&gt;既然大家「弃笔」投身于播客，第一期我们就不妨来讲讲各自写博客的故事。从 QQ 空间到新浪、163博客，从搭建 Wordpress 到 GitHub Pages，从简书到自己构建 blog engine，每一次选择都伴随着成长。听花边新闻的同时，顺带听听 &lt;a href=&quot;https://huntersnk.com&quot;&gt;Huntersnk&lt;/a&gt; 给朋友们选择博客的一些建议。&lt;/p&gt;
 
 &lt;p&gt;相关链接：&lt;/p&gt;
 
@@ -38,8 +38,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 26 Oct 2015 04:20:00 +0800</pubDate>
-        <link>http://yourdomain.com/threecast/2015/10/26/episode1.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/threecast/2015/10/26/episode1.html</guid>
+        <link>http://three.sh/threecast/2015/10/26/episode1.html</link>
+        <guid isPermaLink="true">http://three.sh/threecast/2015/10/26/episode1.html</guid>
         
         
         <category>threecast</category>
