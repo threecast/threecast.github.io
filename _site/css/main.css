@@ -384,6 +384,9 @@ pre {
       .post-content h4 {
         font-size: 18px; } }
 
+.episode-player {
+  width: 100%; }
+
 /**
  * Syntax highlighting styles
  */
