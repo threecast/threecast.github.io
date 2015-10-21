@@ -11,6 +11,9 @@ layout: default
       <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
     {% endif %}
     </h1>
+    <audio class="episode-player" controls="">
+      <source src="{{ post.audiolink }}" />
+    </audio>
     <div class="entry-content">{{ content }}</div>
   </div>
   <!--
@@ -18,7 +21,7 @@ layout: default
   -->
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts.shift %}
       <li>
         <div class="post-date">
           <div class="day">{{ post.date | date: "%-d" }}</div>
