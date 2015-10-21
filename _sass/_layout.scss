@@ -44,6 +44,18 @@
         top: 8px;
         margin-right: 20px;
     }
+
+    @include media-query($on-palm) {
+        font-size: 22px;
+        line-height: 42px;
+        padding: 3px 15px;
+
+        img {
+            width: 26px;
+            top: 8px;
+            margin-right: 10px;
+        }
+    }
 }
 
 .site-nav {
@@ -331,6 +343,7 @@
     }
 }
 .episode-player {
-  width: 500px;
+  width: 600px;
   max-width: 100%;
+  margin-bottom: 20px;
 }

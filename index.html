@@ -21,7 +21,7 @@ layout: default
   -->
 
   <ul class="post-list">
-    {% for post in site.posts.shift %}
+    {% for post in site.posts offset:1 %}
       <li>
         <div class="post-date">
           <div class="day">{{ post.date | date: "%-d" }}</div>
