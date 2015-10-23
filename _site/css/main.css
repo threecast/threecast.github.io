@@ -322,6 +322,8 @@ pre {
 .post-meta {
   font-size: 14px;
   color: #9e848d; }
+  .post-meta a {
+    color: #9e848d; }
 
 .post-date {
   max-width: 80px;
