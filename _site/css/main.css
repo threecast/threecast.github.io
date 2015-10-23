@@ -249,6 +249,11 @@ pre {
   border-top: 1px solid #f8f6f7;
   padding: 30px 0;
   background: #f0e9e4; }
+  .site-footer p {
+    margin: 0;
+    font-size: 12px;
+    text-align: center;
+    color: #3e3136; }
 
 .footer-heading {
   font-size: 18px;
