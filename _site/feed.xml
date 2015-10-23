@@ -6,13 +6,13 @@
 </description>
     <link>http://three.sh/</link>
     <atom:link href="http://three.sh/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Oct 2015 00:38:41 +0800</pubDate>
-    <lastBuildDate>Sat, 24 Oct 2015 00:38:41 +0800</lastBuildDate>
+    <pubDate>Sat, 24 Oct 2015 01:30:33 +0800</pubDate>
+    <lastBuildDate>Sat, 24 Oct 2015 01:30:33 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <image>
       <title></title>
       <link>http://three.sh</link>
-      <url>http://three.sh/images/logo.png</url>
+      <url>http://three.sh/images/logo.jpg</url>
     </image>
     <itunes:author>Three Cast</itunes:author>
     <itunes:subtitle>「三人行」纯粹是 Sneezry、Huntersnk 和 Rebornix 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。 如果您碰巧喜欢我们的节目，不妨给我们写邮件（hi@three.sh）反馈，和我们一起把讨论与分享继续下去。同时也欢迎大家用支付宝支付小费至 hi@three.sh，请我们喝杯啤酒或者打一次免费的 Uber 。
@@ -23,7 +23,7 @@
       <itunes:email>hi@three.sh</itunes:email>
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
-    <itunes:image href="http://three.sh/images/logo.png"/>
+    <itunes:image href="http://three.sh/images/logo.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
@@ -62,7 +62,7 @@
         
         <category>podcast</category>
         
-        <enclosure url="http://7sbn7z.com1.z0.glb.clouddn.com/threecast-3some-01-version2-64.mp3" type="audio/mpeg" />
+        <enclosure url="http://7sbn7z.com1.z0.glb.clouddn.com/threecast-episode-1.mp3" type="audio/mpeg" />
         <itunes:author>Three Cast</itunes:author>
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle>
@@ -101,7 +101,7 @@
 
           ]]>
         </itunes:summary>
-        <itunes:duration>79:16</itunes:duration>
+        <itunes:duration>82:21</itunes:duration>
       </item>
     
 </channel>

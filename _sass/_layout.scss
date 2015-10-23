@@ -221,7 +221,8 @@
  * Page content
  */
 .lastest-entry,
-.post {
+.post,
+.post-commit {
     background: #fff;
     box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
     padding: 2%;
@@ -375,6 +376,7 @@
         }
     }
 }
+
 .episode-player {
   width: 600px;
   max-width: 100%;
