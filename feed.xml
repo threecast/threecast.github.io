@@ -11,7 +11,24 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <image>
+      <title>{{ site.name }}</title>
+      <link>{{ site.url }}</link>
+      <url>http://three.sh/images/logo.png</url>
+    </image>
+    <itunes:author>{{ site.data.author.name }}</itunes:author>
+    <itunes:subtitle>{{ site.description }}</itunes:subtitle>
+    <itunes:summary>Podcast by Threecast.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>{{ site.data.author.name }}</itunes:name>
+      <itunes:email>{{ site.data.author.email }}</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:image href="http://three.sh/images/logo.png"/>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Software How-To"/>
+    <itunes:category text="Gadgets"/>
+    {% for post in site.categories.podcast limit:25 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}</description>
@@ -24,7 +41,21 @@ layout: null
         {% for cat in post.categories %}
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
+        {% if post.podcasturl %}<enclosure url="{{ post.audiolink}}" length="{{ post.podcastsize }}" type="{{ post.podcasttype }}" />{% endif %}
+        <itunes:author>{{ site.data.author.name }}</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:subtitle>
+          <![CDATA[
+          {{ post.content | strip_html |truncate:250 }}
+          ]]>
+        </itunes:subtitle>
+        <itunes:summary>
+          <![CDATA[
+          {{ post.content | strip_html }}
+          ]]>
+        </itunes:summary>
+        <itunes:duration>{{ post.podcastlength }}</itunes:duration>
       </item>
     {% endfor %}
-  </channel>
+</channel>
 </rss>

@@ -2,13 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>三人行</title>
-    <description>「三人行」纯粹是 Sneezry、Huntersnk 和 Rebornix 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。
+    <description>「三人行」纯粹是 Sneezry、Huntersnk 和 Rebornix 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。 如果您碰巧喜欢我们的节目，不妨给我们写邮件（hi@three.sh）反馈，和我们一起把讨论与分享继续下去。同时也欢迎大家用支付宝支付小费至hi@three.sh，请我们喝杯啤酒或者打一次免费的 Uber 。
 </description>
     <link>http://three.sh/</link>
     <atom:link href="http://three.sh/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Oct 2015 15:11:47 +0800</pubDate>
-    <lastBuildDate>Wed, 21 Oct 2015 15:11:47 +0800</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2015 09:06:28 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2015 09:06:28 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    <image>
+      <title></title>
+      <link>http://three.sh</link>
+      <url>http://three.sh/images/logo.png</url>
+    </image>
+    <itunes:author>Three Cast</itunes:author>
+    <itunes:subtitle>「三人行」纯粹是 Sneezry、Huntersnk 和 Rebornix 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。 如果您碰巧喜欢我们的节目，不妨给我们写邮件（hi@three.sh）反馈，和我们一起把讨论与分享继续下去。同时也欢迎大家用支付宝支付小费至hi@three.sh，请我们喝杯啤酒或者打一次免费的 Uber 。
+</itunes:subtitle>
+    <itunes:summary>Podcast by Threecast.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Three Cast</itunes:name>
+      <itunes:email>hi@three.sh</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:image href="http://three.sh/images/logo.png"/>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Software How-To"/>
+    <itunes:category text="Gadgets"/>
     
       <item>
         <title>Autobots, Roll out!</title>
@@ -19,8 +37,8 @@
 &lt;p&gt;相关链接：&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.howtotrainyourdragon.com/&quot;&gt;How to train your dragon&lt;/a&gt;
-( &lt;a href=&quot;https://wordpress.org/&quot;&gt;Wordpress&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.howtotrainyourdragon.com/&quot;&gt;How to train your dragon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wordpress.org/&quot;&gt;Wordpress&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://rebornix.com/2012/08/05/%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AAKindle/&quot;&gt;你为什么需要一个 Kindle &lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://qiniu.com/&quot;&gt;七牛&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://appengine.google.com&quot;&gt;GAE&lt;/a&gt;&lt;/li&gt;
@@ -37,14 +55,54 @@
   &lt;li&gt;&lt;a href=&quot;https://book.douban.com/subject/25980975/&quot;&gt;Sneezry 老师的书:《Chrome扩展及应用开发》&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 26 Oct 2015 04:20:00 +0800</pubDate>
-        <link>http://three.sh/threecast/2015/10/26/episode1.html</link>
-        <guid isPermaLink="true">http://three.sh/threecast/2015/10/26/episode1.html</guid>
+        <pubDate>Sun, 25 Oct 2015 20:20:00 +0000</pubDate>
+        <link>http://three.sh/podcast/2015/10/25/episode1.html</link>
+        <guid isPermaLink="true">http://three.sh/podcast/2015/10/25/episode1.html</guid>
         
         
-        <category>threecast</category>
+        <category>podcast</category>
         
+        
+        <itunes:author>Three Cast</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:subtitle>
+          <![CDATA[
+          「三人行」纯粹是 Sneezry、Huntersnk 和 Rebornix 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。
+
+既然大家「弃笔」投身于播客，第一期我们就不妨来讲讲各自写博客的故事。从 QQ 空间到新浪、163博客，从搭建 Wordpress 到 GitHub Pages，从简书到自己构建 blog engine，每一次选择都伴随着成长。听花边新闻的同时，顺带听听 Hunter...
+          ]]>
+        </itunes:subtitle>
+        <itunes:summary>
+          <![CDATA[
+          「三人行」纯粹是 Sneezry、Huntersnk 和 Rebornix 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。
+
+既然大家「弃笔」投身于播客，第一期我们就不妨来讲讲各自写博客的故事。从 QQ 空间到新浪、163博客，从搭建 Wordpress 到 GitHub Pages，从简书到自己构建 blog engine，每一次选择都伴随着成长。听花边新闻的同时，顺带听听 Huntersnk 给朋友们选择博客的一些建议。
+
+相关链接：
+
+
+  How to train your dragon
+  Wordpress
+  你为什么需要一个 Kindle 
+  七牛
+  GAE
+  microlog
+  medium
+  简书
+  Tumblr
+  点点
+  Ghost
+  Static Site Generators
+  Disqus
+  我画的柯南
+  Single Page Blog: spblog
+  Sneezry 老师的书:《Chrome扩展及应用开发》
+
+
+          ]]>
+        </itunes:summary>
+        <itunes:duration>79:16</itunes:duration>
       </item>
     
-  </channel>
+</channel>
 </rss>
