@@ -13,12 +13,12 @@ layout: null
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <image>
-      <title>{{ site.title }}</title>
-      <link>{{ site.url }}</link>
+      <title>{{ site.title | xml_escape }}</title>
+      <link>{{ site.url }}{{ site.baseurl }}/</link>
       <url>http://three.sh/images/logo.jpg</url>
     </image>
     <itunes:author>{{ site.data.author.name }}</itunes:author>
-    <itunes:subtitle>{{ site.description }}</itunes:subtitle>
+    <itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
     <itunes:summary>Podcast by Threecast.</itunes:summary>
     <itunes:owner>
       <itunes:name>{{ site.data.author.name }}</itunes:name>
@@ -26,9 +26,10 @@ layout: null
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
     <itunes:image href="http://three.sh/images/logo.jpg"/>
-    <itunes:category text="Technology"/>
-    <itunes:category text="Software How-To"/>
-    <itunes:category text="Gadgets"/>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To"/>
+      <itunes:category text="Gadgets"/>
+    </itunes:category>
     {% for post in site.categories.podcast limit:25 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
