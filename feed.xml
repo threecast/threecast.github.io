@@ -14,7 +14,7 @@ layout: null
     <image>
       <title>{{ site.name }}</title>
       <link>{{ site.url }}</link>
-      <url>http://three.sh/images/favicon.png</url>
+      <url>http://three.sh/images/logo.jpg</url>
     </image>
     <itunes:author>{{ site.data.author.name }}</itunes:author>
     <itunes:subtitle>{{ site.description }}</itunes:subtitle>
@@ -24,7 +24,7 @@ layout: null
       <itunes:email>{{ site.data.author.email }}</itunes:email>
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
-    <itunes:image href="http://three.sh/images/favicon.png"/>
+    <itunes:image href="http://three.sh/images/logo.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
