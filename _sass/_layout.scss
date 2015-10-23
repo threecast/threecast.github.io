@@ -35,6 +35,12 @@
 
     &:hover {
         text-decoration: none;
+
+        img {
+            -webkit-transform: rotate(-8deg);
+            -moz-transform: rotate(-8deg);
+            transform: rotate(-8deg);
+        }
     }
 
     img {
