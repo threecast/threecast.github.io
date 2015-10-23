@@ -7,8 +7,8 @@
     <link>http://three.sh/</link>
     <language>zh-CN</language>
     <atom:link href="http://three.sh/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Oct 2015 03:48:48 +0800</pubDate>
-    <lastBuildDate>Sat, 24 Oct 2015 03:48:48 +0800</lastBuildDate>
+    <pubDate>Sat, 24 Oct 2015 04:03:31 +0800</pubDate>
+    <lastBuildDate>Sat, 24 Oct 2015 04:03:31 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <image>
       <title>三人行</title>
@@ -64,7 +64,7 @@
         
         <category>podcast</category>
         
-        <enclosure url="http://7sbn7z.com1.z0.glb.clouddn.com/threecast-episode-1.mp3" type="audio/mpeg" />
+        <enclosure url="http://7sbn7z.com1.z0.glb.clouddn.com/threecast-episode-1.mp3" length="39545166" type="audio/mpeg" />
         <itunes:author>Three Cast</itunes:author>
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle>

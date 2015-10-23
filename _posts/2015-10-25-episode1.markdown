@@ -6,6 +6,7 @@ audiolink: http://7sbn7z.com1.z0.glb.clouddn.com/threecast-episode-1.mp3
 categories: podcast 
 podcasttype: audio/mpeg
 podcastlength: "82:21"
+bytelength: 39545166
 episodeid: 1
 ---
 「三人行」是三个人在某夜头脑发热的情况下决定开设档播客节目，第一期录制时甚至连节目名称都还没有想好，更不要说网站了。
