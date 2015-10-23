@@ -41,12 +41,12 @@ layout: null
         {% for cat in post.categories %}
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
-        <enclosure url="{{ post.audiolink}}" length="{{ post.podcastsize }}" type="{{ post.podcasttype }}" />
+        <enclosure url="{{ post.audiolink}}" type="{{ post.podcasttype }}" />
         <itunes:author>{{ site.data.author.name }}</itunes:author>
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle>
           <![CDATA[
-          {{ post.content | strip_html |truncate:250 }}
+          {{ post.excerpt | strip_html }}
           ]]>
         </itunes:subtitle>
         <itunes:summary>
