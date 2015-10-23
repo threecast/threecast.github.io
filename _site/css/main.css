@@ -202,7 +202,8 @@ pre {
       background-color: #f8f8f6;
       border: 1px solid #f8f6f7;
       border-radius: 5px;
-      text-align: right; }
+      text-align: right;
+      z-index: 100; }
       .site-nav .menu-icon {
         display: block;
         float: right;
