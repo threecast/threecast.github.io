@@ -226,6 +226,21 @@ pre {
         display: block;
         padding: 5px 10px; } }
 
+.site-description {
+  position: absolute;
+  width: 50%;
+  bottom: 20%;
+  right: 10%;
+  background: rgba(255, 255, 255, 0.3);
+  padding: 2%;
+  color: #3e3136;
+  font-size: 14px; }
+  @media screen and (max-width: 600px) {
+    .site-description {
+      width: 70%;
+      bottom: 10%;
+      font-size: 12px; } }
+
 /**
  * Site footer
  */

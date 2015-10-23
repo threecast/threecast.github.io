@@ -19,10 +19,16 @@
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+          <a class="page-link" href="https://github.com/{{ site.github_username }}">GitHub</a>
+          <a class="page-link" href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
           <a class="page-link" href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
       </div>
     </nav>
 
+  </div>
+
+  <div class="site-description">
+    {{ site.description }}
   </div>
 
 </header>

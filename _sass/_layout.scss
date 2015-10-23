@@ -121,6 +121,23 @@
     }
 }
 
+.site-description {
+    position: absolute;
+    width: 50%;
+    bottom: 20%;
+    right: 10%;
+    background: rgba(255, 255, 255, 0.3);
+    padding: 2%;
+    color: $grey-color-dark;
+    font-size: 14px;
+
+    @include media-query($on-palm) {
+        width: 70%;
+        bottom: 10%;
+        font-size: 12px;
+    }
+}
+
 
 
 /**

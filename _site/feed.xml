@@ -6,8 +6,8 @@
 </description>
     <link>http://three.sh/</link>
     <atom:link href="http://three.sh/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Oct 2015 12:17:01 +0000</pubDate>
-    <lastBuildDate>Fri, 23 Oct 2015 12:17:01 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2015 22:11:17 +0800</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2015 22:11:17 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <image>
       <title></title>
@@ -30,7 +30,7 @@
     
       <item>
         <title>Autobots, Roll out!</title>
-        <description>&lt;p&gt;「三人行」纯粹是 &lt;a href=&quot;https://sneezry.com&quot;&gt;Sneezry&lt;/a&gt;、&lt;a href=&quot;https://huntersnk.com&quot;&gt;Huntersnk&lt;/a&gt; 和 &lt;a href=&quot;https://rebornix.com&quot;&gt;Rebornix&lt;/a&gt; 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。&lt;/p&gt;
+        <description>&lt;p&gt;「三人行」是三个人在某夜头脑发热的情况下决定开设档播客节目，第一期录制时甚至连节目名称都还没有想好，更不要说网站了。&lt;/p&gt;
 
 &lt;p&gt;既然大家「弃笔」投身于播客，第一期我们就不妨来讲讲各自写博客的故事。从 QQ 空间到新浪、163博客，从搭建 Wordpress 到 GitHub Pages，从简书到自己构建 blog engine，每一次选择都伴随着成长。听花边新闻的同时，顺带听听 &lt;a href=&quot;https://huntersnk.com&quot;&gt;Huntersnk&lt;/a&gt; 给朋友们选择博客的一些建议。&lt;/p&gt;
 
@@ -55,9 +55,9 @@
   &lt;li&gt;&lt;a href=&quot;https://book.douban.com/subject/25980975/&quot;&gt;Sneezry 老师的书:《Chrome扩展及应用开发》&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sun, 25 Oct 2015 20:20:00 +0000</pubDate>
-        <link>http://three.sh/podcast/2015/10/25/episode1.html</link>
-        <guid isPermaLink="true">http://three.sh/podcast/2015/10/25/episode1.html</guid>
+        <pubDate>Mon, 26 Oct 2015 04:20:00 +0800</pubDate>
+        <link>http://three.sh/podcast/2015/10/26/episode1.html</link>
+        <guid isPermaLink="true">http://three.sh/podcast/2015/10/26/episode1.html</guid>
         
         
         <category>podcast</category>
@@ -67,14 +67,14 @@
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle>
           <![CDATA[
-          「三人行」纯粹是 Sneezry、Huntersnk 和 Rebornix 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。
+          「三人行」是三个人在某夜头脑发热的情况下决定开设档播客节目，第一期录制时甚至连节目名称都还没有想好，更不要说网站了。
 
 
           ]]>
         </itunes:subtitle>
         <itunes:summary>
           <![CDATA[
-          「三人行」纯粹是 Sneezry、Huntersnk 和 Rebornix 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。
+          「三人行」是三个人在某夜头脑发热的情况下决定开设档播客节目，第一期录制时甚至连节目名称都还没有想好，更不要说网站了。
 
 既然大家「弃笔」投身于播客，第一期我们就不妨来讲讲各自写博客的故事。从 QQ 空间到新浪、163博客，从搭建 Wordpress 到 GitHub Pages，从简书到自己构建 blog engine，每一次选择都伴随着成长。听花边新闻的同时，顺带听听 Huntersnk 给朋友们选择博客的一些建议。
 
