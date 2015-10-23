@@ -11,7 +11,7 @@ layout: default
     #{{ post.episodeid }}.  <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
     {% endif %}
     </h1>
-    <audio class="episode-player" controls="">
+    <audio class="episode-player" controls="" preload="meta">
       <source src="{{ post.audiolink }}" />
     </audio>
     <div class="entry-content">{{ content }}</div>
