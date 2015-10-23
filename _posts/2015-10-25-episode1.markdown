@@ -6,7 +6,7 @@ audiolink: http://7sbn7z.com1.z0.glb.clouddn.com/threecast-3some-01-version2-64.
 categories: podcast 
 podcasttype: audio/mpeg
 podcastlength: "79:16"
-id: 1
+episodeid: 1
 ---
 「三人行」纯粹是 [Sneezry](https://sneezry.com)、[Huntersnk](https://huntersnk.com) 和 [Rebornix](https://rebornix.com) 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。
 
