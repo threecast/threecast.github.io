@@ -8,7 +8,7 @@ layout: default
     {% assign post = site.posts.first %}
     {% assign content = post.content %}
     {% if post.title %}
-      <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+    #{{ post.id }}.  <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
     {% endif %}
     </h1>
     <audio class="episode-player" controls="">

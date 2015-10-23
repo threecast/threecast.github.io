@@ -6,8 +6,8 @@
 </description>
     <link>http://three.sh/</link>
     <atom:link href="http://three.sh/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Oct 2015 09:21:10 +0000</pubDate>
-    <lastBuildDate>Fri, 23 Oct 2015 09:21:10 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2015 12:17:01 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2015 12:17:01 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <image>
       <title></title>
@@ -62,14 +62,14 @@
         
         <category>podcast</category>
         
-        <enclosure url="http://7sbn7z.com1.z0.glb.clouddn.com/threecast-3some-01-version2-64.mp3" length="1600" type="audio/mpeg" />
+        <enclosure url="http://7sbn7z.com1.z0.glb.clouddn.com/threecast-3some-01-version2-64.mp3" type="audio/mpeg" />
         <itunes:author>Three Cast</itunes:author>
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle>
           <![CDATA[
           「三人行」纯粹是 Sneezry、Huntersnk 和 Rebornix 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。
 
-既然大家「弃笔」投身于播客，第一期我们就不妨来讲讲各自写博客的故事。从 QQ 空间到新浪、163博客，从搭建 Wordpress 到 GitHub Pages，从简书到自己构建 blog engine，每一次选择都伴随着成长。听花边新闻的同时，顺带听听 Hunter...
+
           ]]>
         </itunes:subtitle>
         <itunes:summary>
