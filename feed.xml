@@ -28,9 +28,8 @@ layout: null
     {% for post in site.categories.podcast limit:25 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description><![CDATA[ 
+        <description  type="html">
         {{ post.content }}
-        ]]>
         </description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
@@ -44,15 +43,11 @@ layout: null
         <enclosure url="{{ post.audiolink}}" length="{{ post.bytelength }}" type="{{ post.podcasttype }}" />
         <itunes:author>{{ site.data.author.name }}</itunes:author>
         <itunes:explicit>No</itunes:explicit>
-        <itunes:subtitle>
-          <![CDATA[
-          {{ post.excerpt | strip_html | truncatewords 250}}
-          ]]>
+        <itunes:subtitle  type="html">
+          {{ post.excerpt }}
         </itunes:subtitle>
-        <itunes:summary>
-          <![CDATA[
-          {{ post.content | strip_html }}
-          ]]>
+        <itunes:summary  type="html">
+          {{ post.content }}
         </itunes:summary>
         <itunes:duration>{{ post.podcastlength }}</itunes:duration>
       </item>
