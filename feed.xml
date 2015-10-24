@@ -29,7 +29,7 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description  type="html">
-        {{ post.content  | xml_escape | strip_html }}
+        {{ post.content | strip_html }}
         </description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
@@ -44,10 +44,10 @@ layout: null
         <itunes:author>{{ site.data.author.name }}</itunes:author>
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle  type="html">
-          {{ post.excerpt  | xml_escape | strip_html }}
+          {{ post.excerpt  | strip_html }}
         </itunes:subtitle>
         <itunes:summary  type="html">
-          {{ post.content  | xml_escape | strip_html }}
+          {{ post.content  | strip_html }}
         </itunes:summary>
         <itunes:duration>{{ post.podcastlength }}</itunes:duration>
       </item>
