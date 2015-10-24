@@ -9,9 +9,7 @@ layout: null
     <link>{{ site.url }}{{ site.baseurl }}/</link>
     <language>zh-CN</language>
     <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
+    <itunes:new-feed-url>http://three.sh/feed.xml</itunes:new-feed-url>
     <image>
       <title>{{ site.title | xml_escape }}</title>
       <link>{{ site.url }}{{ site.baseurl }}/</link>
@@ -24,12 +22,9 @@ layout: null
       <itunes:name>{{ site.data.author.name }}</itunes:name>
       <itunes:email>{{ site.data.author.email }}</itunes:email>
     </itunes:owner>
-    <itunes:explicit>No</itunes:explicit>
+    <itunes:explicit />
     <itunes:image href="http://three.sh/images/logo.jpg"/>
-    <itunes:category text="Technology">
-      <itunes:category text="Software How-To"/>
-      <itunes:category text="Gadgets"/>
-    </itunes:category>
+    <itunes:category text="Technology" />
     {% for post in site.categories.podcast limit:25 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
