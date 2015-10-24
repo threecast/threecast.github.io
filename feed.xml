@@ -28,7 +28,7 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description><![CDATA[ 
-        {{ post.content | xml_escape }}
+        {{ post.content }}
         ]]>
         </description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
@@ -44,11 +44,11 @@ layout: null
         <itunes:author>{{ site.data.author.name }}</itunes:author>
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle> <![CDATA[ 
-          {{ post.excerpt  | xml_escape  }}
+          {{ post.excerpt }}
         ]]>
         </itunes:subtitle>
         <itunes:summary> <![CDATA[ 
-          {{ post.content  | xml_escape  }}
+          {{ post.content }}
         ]]>
         </itunes:summary>
         <itunes:duration>{{ post.podcastlength }}</itunes:duration>
