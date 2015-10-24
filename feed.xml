@@ -29,7 +29,7 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description><![CDATA[ 
-        {{ post.content | xml_escape }}
+        {{ post.content | strip_html }}
         ]]>
         </description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
