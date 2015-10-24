@@ -22,7 +22,7 @@ layout: null
       <itunes:name>{{ site.data.author.name }}</itunes:name>
       <itunes:email>{{ site.data.author.email }}</itunes:email>
     </itunes:owner>
-    <itunes:explicit />
+    <itunes:explicit>No</itunes:explicit>
     <itunes:image href="http://three.sh/images/logo.jpg"/>
     <itunes:category text="Technology" />
     {% for post in site.categories.podcast limit:25 %}
