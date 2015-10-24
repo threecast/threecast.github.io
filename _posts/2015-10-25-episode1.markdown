@@ -5,7 +5,7 @@ date:   2015-10-25 20:20:00
 audiolink: http://7sbn7z.com1.z0.glb.clouddn.com/threecast-episode-1.mp3
 categories: podcast 
 podcasttype: audio/mpeg
-podcastlength: "82:21"
+podcastlength: 4941
 bytelength: 39545166
 episodeid: 1
 ---
