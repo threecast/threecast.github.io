@@ -46,7 +46,7 @@ layout: null
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle>
           <![CDATA[
-          {{ post.excerpt | strip_html }}
+          {{ post.excerpt | strip_html | truncatewords 250}}
           ]]>
         </itunes:subtitle>
         <itunes:summary>
