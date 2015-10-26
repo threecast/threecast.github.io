@@ -11,7 +11,7 @@ layout: default
     #{{ post.episodeid }}.  <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
     {% endif %}
     </h1>
-    <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}{% if post.audiolink %} • <a href="{{ post.audiolink }}">Download Episode</a>{% endif %}</p>
+    <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}{% if post.audiolink %} • <a href="{{ post.audiolink }}">Download Episode</a>{% endif %} • <a href="{{ root_url }}{{ post.url }}#disqus_thread">Comments</a></p>
     <audio class="episode-player" controls="" preload="meta">
       <source src="{{ post.audiolink }}" />
     </audio>
@@ -29,6 +29,7 @@ layout: default
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>
+          <p class="post-meta"><a href="{{ post.audiolink }}">Download Episode</a> • <a href="{{ root_url }}{{ post.url }}#disqus_thread">Comments</a></p>
           <audio class="episode-player" controls="">
             <source src="{{ post.audiolink }}" />
           </audio>
