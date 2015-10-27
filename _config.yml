@@ -7,7 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://three.sh" # the base hostname & protocol for your site
 twitter_username: CastThree
-github_username:  threecast
+github_username: threecast
+weibo_username: threecast
 
 # Build settings
 markdown: kramdown
