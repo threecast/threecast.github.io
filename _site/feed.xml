@@ -12,12 +12,12 @@
       <link>http://three.sh/</link>
       <url>http://three.sh/images/logo.jpg</url>
     </image>
-    <itunes:author>Threecast</itunes:author>
+    <itunes:author>Three Cast</itunes:author>
     <itunes:subtitle>「三人行」纯粹是 Sneezry、Huntersnk 和 Rebornix 三个人在某夜头脑发热的情况下决定共同开设的一档播客节目。三个人都是在软硬件行业摸爬滚打没多久的新手工程师，能带给大家的也不过是同事间茶余饭后的闲谈。 如果您碰巧喜欢我们的节目，不妨给我们写邮件（hi@three.sh）反馈，和我们一起把讨论与分享继续下去。同时也欢迎大家用支付宝支付小费至 hi@three.sh，请我们喝杯啤酒或者打一次免费的 Uber 。
 </itunes:subtitle>
     <itunes:summary>Podcast by Threecast.</itunes:summary>
     <itunes:owner>
-      <itunes:name>Threecast</itunes:name>
+      <itunes:name>Three Cast</itunes:name>
       <itunes:email>hi@three.sh</itunes:email>
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
@@ -62,7 +62,7 @@
         <category>podcast</category>
         
         <enclosure url="http://threecast.b0.upaiyun.com/threecast-episode-1.mp3" length="39545166" type="audio/mpeg" />
-        <itunes:author>Threecast</itunes:author>
+        <itunes:author>Three Cast</itunes:author>
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle> <![CDATA[ 
           <p>「三人行」是三个人在某夜头脑发热的情况下决定开设档播客节目，第一期录制时甚至连节目名称都还没有想好，更不要说网站了。</p>
