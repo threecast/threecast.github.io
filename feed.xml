@@ -15,7 +15,7 @@ layout: null
       <url>http://three.sh/images/logo.jpg</url>
     </image>
     <itunes:author>{{ site.data.author.name }}</itunes:author>
-    <itunes:subtitle>{{ site.description | html_strip | truncatewords 250 }}</itunes:subtitle>
+    <itunes:subtitle>{{ site.description | xml_escape | truncatewords 250 }}</itunes:subtitle>
     <itunes:summary>Podcast by Threecast.</itunes:summary>
     <itunes:owner>
       <itunes:name>{{ site.data.author.name }}</itunes:name>
