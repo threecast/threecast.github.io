@@ -267,6 +267,9 @@ pre {
     .site-footer span.aff img {
       height: 16px;
       margin: 0 10px; }
+    @media screen and (max-width: 600px) {
+      .site-footer span.aff {
+        display: none; } }
   .site-footer img.zhifubao {
     width: 48px;
     height: 48px;
