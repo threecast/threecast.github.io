@@ -167,7 +167,17 @@
         color: $grey-color-dark;
     }
 
-    img {
+    span.aff {
+        margin-right: 60px;
+        float: right;
+
+        img {
+            height: 16px;
+            margin: 0 10px;
+        }
+    }
+
+    img.zhifubao {
         width: 48px;
         height: 48px;
         position: absolute;
