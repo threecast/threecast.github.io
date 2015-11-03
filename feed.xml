@@ -12,7 +12,7 @@ layout: null
     <image>
       <title>{{ site.title | xml_escape }}</title>
       <link>{{ site.url }}{{ site.baseurl }}/</link>
-      <url>http://three.sh/images/logo.jpg</url>
+      <url>http://7sbn7z.com5.z0.glb.clouddn.com/threecast-logo.jpg</url>
     </image>
     <itunes:author>{{ site.data.author.name }}</itunes:author>
     <itunes:subtitle>{{ site.description | xml_escape | truncatewords 250 }}</itunes:subtitle>
@@ -22,7 +22,7 @@ layout: null
       <itunes:email>{{ site.data.author.email }}</itunes:email>
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
-    <itunes:image href="http://three.sh/images/logo.jpg"/>
+    <itunes:image href="http://7sbn7z.com5.z0.glb.clouddn.com/threecast-logo.jpg"/>
     <itunes:category text="Technology" />
     {% for post in site.categories.podcast limit:25 %}
       <item>
