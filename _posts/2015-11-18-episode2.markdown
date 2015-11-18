@@ -1,0 +1,34 @@
+---
+layout: post
+title:  满街都快裸奔了,保守的你如何避免露底裤
+date:   2015-11-18 10:55:00
+audiolink: http://7sbn7z.com5.z0.glb.clouddn.com/threecast-episode-2.mp3
+categories: podcast 
+podcasttype: audio/mpeg
+podcastlength: 4103
+bytelength: 49242063
+episodeid: 2
+---
+很抱歉让大家久等了，「三人行」播客节目已经接近一个月没有更新...不找借口，我们会逐渐调整出更稳定的更新时间。
+
+第二期我们来聊聊安全，从近期频繁发生让大家人心惶惶的各个安全事件，聊到作为普通用户的我们应如何确保密码安全等等话题。
+最后，我们一如既往的欢迎大家给我们提问题、意见或建议，发邮件到 hi@three.sh 或关注我们的[新浪微博](http://weibo.com/threecast)留言。
+
+相关链接:
+
+* [数据库导出导入](http://www.runoob.com/mysql/mysql-database-export.html)
+* [Disqus](https://disqus.com/)
+* [多说](http://duoshuo.com/)
+* [某度全家捅事件](https://zh.wikipedia.org/wiki/%E7%99%BE%E5%BA%A6%E5%85%A8%E5%AE%B6%E6%A1%B6)
+* [某邮箱泄漏事件](http://tech.sina.com.cn/i/2015-10-19/doc-ifxivsce6930000.shtml)
+* [某宝实名认证事件](http://weibo.com/p/1001603896369076119257)
+* [某宝app被下架](http://www.pingwest.com/google-play-removes-alipay/)
+* [XcodeGhost事件](http://blog.jobbole.com/91646/)
+* [某飞行物FM事件](http://netsecurity.51cto.com/art/201511/496719.htm)
+* [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=zh-Hans)
+* [跨平台验证](https://www.authy.com/)
+* [Two Factor Auth](https://twofactorauth.org/)
+* [MD5最大彩虹表](http://cmd5.com/)
+* [How Secure is My PW](http://howsecureismypassword.net/)
+* [LastPass](https://lastpass.com/)
+* [URL Schemes](http://sspai.com/31500)
