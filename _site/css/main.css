@@ -19,6 +19,9 @@ body {
   background-color: #f8f8f6;
   -webkit-text-size-adjust: 100%; }
 
+p {
+  text-indent: 2em; }
+
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -399,7 +402,8 @@ pre {
 
 .post-meta {
   font-size: 14px;
-  color: #9e848d; }
+  color: #9e848d;
+  margin-bottom: 15px; }
   .post-meta a {
     color: #9e848d; }
 
@@ -432,6 +436,8 @@ pre {
   vertical-align: top;
   margin-top: 10px;
   box-sizing: border-box; }
+  .post-info audio {
+    margin-bottom: 0; }
   @media screen and (max-width: 600px) {
     .post-info {
       padding: 0;
@@ -450,7 +456,7 @@ pre {
       width: auto; } }
 
 .post-link {
-  display: block;
+  display: inline;
   font-size: 24px; }
 
 @media screen and (max-width: 600px) {

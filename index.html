@@ -4,18 +4,25 @@ layout: default
 
 <div class="home">
   <div class="lastest-entry">
-    <h1 class="entry-title">
     {% assign post = site.posts.first %}
-    {% assign content = post.content %}
-    {% if post.title %}
-    #{{ post.episodeid }}.  <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
-    {% endif %}
-    </h1>
-    <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}{% if post.audiolink %} • <a href="{{ post.audiolink }}">Download Episode</a>{% endif %} • <a href="{{ root_url }}{{ post.url }}#disqus_thread">Comments</a></p>
-    <audio class="episode-player" controls="" preload="meta">
-      <source src="{{ post.audiolink }}" />
-    </audio>
-    <div class="entry-content">{{ content }}</div>
+    <div class="post-date">
+      <div class="day">{{ post.date | date: "%-d" }}</div>
+      <div class="month">{{ post.date | date: "%b/%Y" }}</div>
+    </div>
+    <div style="display: inline-block; width: 80%; padding-left: 20px; margin-top: 10px; vertical-align: top">
+      <h1 class="entry-title">
+      {% assign content = post.content %}
+      {% if post.title %}
+      #{{ post.episodeid }}. <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+      </h1>
+      <div class="post-meta"><a href="{{ post.audiolink }}">Download Episode</a> • <a href="{{ root_url }}{{ post.url }}#disqus_thread">Comments</a></div>
+    
+      <audio class="episode-player" controls="" preload="meta">
+        <source src="{{ post.audiolink }}" />
+      </audio>
+      <div class="entry-content">{{ content }}</div>
+    </div>
   </div>
 
   <ul class="post-list">
@@ -27,9 +34,9 @@ layout: default
         </div>
         <div class="post-info">
           <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            #{{ post.episodeid }}. <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>
-          <p class="post-meta"><a href="{{ post.audiolink }}">Download Episode</a> • <a href="{{ root_url }}{{ post.url }}#disqus_thread">Comments</a></p>
+          <div class="post-meta"><a href="{{ post.audiolink }}">Download Episode</a> • <a href="{{ root_url }}{{ post.url }}#disqus_thread">Comments</a></div>
           <audio class="episode-player" controls="">
             <source src="{{ post.audiolink }}" />
           </audio>

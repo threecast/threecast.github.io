@@ -345,6 +345,7 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+    margin-bottom: 15px;
 
     a {
         color: $grey-color;
@@ -387,6 +388,10 @@
     margin-top: 10px;
     box-sizing: border-box;
 
+    audio {
+        margin-bottom: 0;
+    }
+
     @include media-query($on-palm) {
         padding: 0;
         display: block;
@@ -408,7 +413,7 @@
 }
 
 .post-link {
-    display: block;
+    display: inline;
     font-size: 24px;
 }
 
