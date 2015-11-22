@@ -1,0 +1,21 @@
+---
+layout: post
+title:  小蜗手撕双鹏--有情怀还是傻有钱
+date:   2015-11-22 14:20:00
+audiolink: http://three-cast.b0.upaiyun.com/episode3.mp3
+categories: podcast 
+podcasttype: audio/mpeg
+podcastlength: 2206
+bytelength: 26468144
+episodeid: 3
+---
+本期播客是一期特别节目，闲聊中提起近期火遍大江南北的IOS应用Surge，三位主播因意见不合而爆发了激烈冲突，进而引发出一些关于独立开发者和独立应用定价方面的思考。
+对此你怎么看？欢迎将你的观点传送到我们的邮箱 hi@three.sh 在下期节目中，我们会挑选出一些观点与大家分享。另外，如果你正好是一位独立开发者，也欢迎将你所开发过的作品或开发时遇到的印象深刻的故事发邮件给我们，我们很愿意在节目中帮你进行免费的推广和分享，以此表达我们对于独立开发者的敬意。
+
+最后，欢迎关注我们的[新浪微博](http://weibo.com/threecast)，当我们的微博账号粉丝数超过 100 时会有小礼品送出，具体活动通知会在微博中向大家公布。
+
+相关链接:
+
+* [Surge 开发者宣布 Surge 从 App Store 下架](https://twitter.com/Blankwonder/status/667714734179794944)
+* [Fiddler](http://www.telerik.com/fiddler)
+* [最好从一开始就要玩真的--by李笑来](http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&mid=400487407&idx=1&sn=1738bf05fca2e073fd3e3dab57303905#rd)
