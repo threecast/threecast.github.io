@@ -24,7 +24,7 @@ layout: null
     <itunes:explicit>No</itunes:explicit>
     <itunes:image href="http://7sbn7z.com5.z0.glb.clouddn.com/threecast-logo.jpg"/>
     <itunes:category text="Technology" />
-    {% for post in site.categories.podcast limit:25 %}
+    {% for post in site.categories.podcast %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description><![CDATA[ 
