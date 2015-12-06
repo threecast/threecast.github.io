@@ -2,7 +2,7 @@
 layout: post
 title:  上海二人转：打脸与被打脸
 date:   2015-12-06 15:21:00
-audiolink: three-cast.b0.upaiyun.com/threecast-episode4.mp3
+audiolink: http://three-cast.b0.upaiyun.com/threecast-episode4.mp3
 categories: podcast 
 podcasttype: audio/mpeg
 podcastlength: 4493
