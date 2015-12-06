@@ -17,7 +17,7 @@ episodeid: 4
 
 ####相关链接：
 
-* [Wordpress 用 Nodejs 重写并开源](three-cast.b0.upaiyun.com/threecast-episode4.mp3)
+* [Wordpress 用 Nodejs 重写并开源](https://developer.wordpress.com/2015/11/23/the-story-behind-the-new-wordpress-com/)
 * [Wordpress.com](http://wordpress.com) / [Wordpress.org](http://wordpress.org)
 * [Calypso](https://developer.wordpress.com/calypso/)
 * [Jekyll](http://jekyllrb.com) / [GitHub Page](https://pages.github.com/)
