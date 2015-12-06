@@ -1,0 +1,33 @@
+---
+layout: post
+title:  上海二人转：打脸与被打脸
+date:   2015-12-06 15:21:00
+audiolink: three-cast.b0.upaiyun.com/threecast-episode4.mp3
+categories: podcast 
+podcasttype: audio/mpeg
+podcastlength: 4493
+bytelength: 35942507
+episodeid: 4
+---
+某百科终于倒下了，准确实时信息的获取逐渐成为了高难度的动作。这一期魑魅老师忙于工作，身处魔都的 [Sneezry](http://sneezry.com) 和 [Rebornix](http://rebornix.com) 干脆来了次无主题的扯淡，聊了聊最近各种被歪曲误解的新闻。Wordpress 真的用 Node.js 重写了吗？VS Code 难道只是 GitHub Atom 的一个 theme？Electron 又是什么鬼，听说还有个叫 node-webkit 艾玛前端的世界好混乱 ... 
+
+每个人都有自己不熟悉的领域，打脸和被打脸一定会是永恒的主题。如果我们的节目，解开了你心中的疑惑，欢迎给我们写邮件（hi@three.sh）反馈；如果发现我们也有胡说八道，欢迎前来打脸！
+
+最后，把我们的播客分享给你的朋友们，就是对我们最好的支持啦。
+####相关链接：
+
+* [Wordpress 用 Nodejs 重写并开源](three-cast.b0.upaiyun.com/threecast-episode4.mp3)
+* [Wordpress.com](http://wordpress.com) / [Wordpress.org](http://wordpress.org)
+* [Calypso](https://developer.wordpress.com/calypso/)
+* [Jekyll](http://jekyllrb.com) / [GitHub Page](https://pages.github.com/)
+* [PHP 7.0](http://php.net/archive/2015.php)
+* [Android Studio 2.0](http://techcrunch.com/2015/11/23/android-studio-2-0-with-improved-android-emulator-and-instant-run/#.v1kfjup:tw0v)
+* [Microsoft Android Emulator](https://www.visualstudio.com/en-us/features/msft-android-emulator-vs.aspx)
+* [VS Code](https://code.visualstudio.com/) / [Visual Studio](https://visualstudio.com)
+* [Ticino](https://en.wikipedia.org/wiki/Ticino) / [Monaco](https://en.wikipedia.org/wiki/Monaco)
+* [TypeScript](http://typescript.com)
+* [Electron](http://electron.atom.io/)
+* [Node Webkit](http://nwjs.io)
+* [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
+* [Hubot](https://hubot.github.com/)
+* [Send to Kindle](https://github.com/rebornix/hubot-scripts)
